@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CommonCrypto",
+        "repositoryURL": "https://github.com/edwardvalentini/CommonCrypto",
+        "state": {
+          "branch": null,
+          "revision": "95dae7bb29a3d9ceb4b21cd4192b0bc6f17ebb9d",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
